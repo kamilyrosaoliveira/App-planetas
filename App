@@ -1,4 +1,4 @@
-[09:42, 12/02/2025] +55 43 9694-4406: import 'package:flutter/material.dart';
+import 'package:flutter/material.dart';
 
 import 'controles/controle_planeta.dart';
 import 'modelos/planeta.dart';
@@ -129,8 +129,6 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
-[09:42, 12/02/2025] +55 43 9694-4406: Tela planeta. Dart 👇
-
 import 'package:flutter/material.dart';
 
 import '../controles/controle_planeta.dart';
@@ -188,7 +186,6 @@ class ControlePlaneta {
       nome TEXT NOT NULL,
       tamanho REAL NOT NULL,
       distancia RE…
-[09:44, 12/02/2025] +55 43 9694-4406: Planeta.dart 👇
 
 class Planeta {
   int? id;
